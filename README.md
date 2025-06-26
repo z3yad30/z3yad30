@@ -7,6 +7,10 @@ Passionate about Machine Learning, AI, and system-level logic. I enjoy solving r
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3yad30&layout=compact&theme=radical)
+
+---
+
 ### 📬 Contact Me
 
 - 📧 Email: [zeyad.mo.refaey@gmail.com](mailto:zeyad.mo.refaey@gmail.com)  
