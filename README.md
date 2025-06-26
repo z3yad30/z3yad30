@@ -1,16 +1,14 @@
-## Hi there 👋
+# 📄 Zeyad Refaey – Resume
 
-<!--
-**z3yad30/z3yad30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student specializing in Data Science @ ECU  
+Passionate about Machine Learning, AI, and system-level logic.
 
-Here are some ideas to get you started:
+🔗 [**Download my CV (PDF)**](./Zeyad_Refaey_CV.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Feel free to reach out:
+
+- 📧 Email: zeyad.mo.refaey@gmail.com  
+- 📞 Phone: +20 102 688 7363  
+- 🌐 [GitHub](https://github.com/z3yad30) | [LinkedIn]([#](https://www.linkedin.com/in/zeyadrefaey?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
