@@ -3,7 +3,7 @@
 I'm a Computer Science student specializing in Data Science @ ECU  
 Passionate about Machine Learning, AI, and system-level logic.
 
-🔗 [**Download my CV (PDF)**](./Zeyad_Refaey_CV.pdf)
+🔗 [**Download my CV (PDF)**](CV.pdf)
 
 ---
 
