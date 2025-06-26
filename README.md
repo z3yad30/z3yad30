@@ -3,7 +3,7 @@
 I'm a Computer Science student specializing in Data Science @ ECU (Egyptian Chinese University).  
 Passionate about Machine Learning, AI, and system-level logic. I enjoy solving real-world problems with Python, C++, and SQL.
 
-🔗 [**Download my CV (PDF)**](https://github.com/z3yad30/resume/blob/main/CV.pdf)
+🔗 [**my CV (PDF)**](https://github.com/z3yad30/resume/blob/main/CV.pdf)
 
 ---
 
