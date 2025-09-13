@@ -36,7 +36,7 @@ Currently working on:
 ---
 
 ### 🔗 Resume
-📄 [**View My CV (PDF)**](https://github.com/z3yad30/resume/blob/main/CV.pdf)
+📄 [**View My CV (PDF)**](https://github.com/z3yad30/resume/)
 
 ---
 
