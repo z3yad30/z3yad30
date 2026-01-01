@@ -43,10 +43,9 @@ Currently working on:
 ### 🛠️ Tech & Tools  
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `scikit-learn` • `SQL Server` • `Power BI` • `Git`
 
----
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=z3yad30&layout=compact&theme=radical)
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z3yad30&show_icons=true&theme=radical)
+
+
 
 ### 📬 Contact Me  
 - 📧 [zeyad.mo.refaey@gmail.com](mailto:zeyad.mo.refaey@gmail.com)  
