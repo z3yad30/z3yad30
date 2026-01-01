@@ -1,8 +1,7 @@
 # 👋 Hey, I'm Zeyad Refaey  
 
 🎓 **Computer Science Student** @ Egyptian Chinese University (ECU)  
-💡 Passionate about **Data Science, Machine Learning, and AI**  
-🛠️ Skilled in **Python, SQL, C++**, and building data-driven solutions  
+💡 Passionate about **Data Science, Machine Learning, and AI** 🛠️ Skilled in **Python, SQL, C++**, and building data-driven solutions  
 
 ---
 
@@ -43,12 +42,15 @@ Currently working on:
 ### 🛠️ Tech & Tools  
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `scikit-learn` • `SQL Server` • `Power BI` • `Git`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z3yad30&show_icons=true&theme=radical)
+---
 
+### 📊 GitHub Stats
+![Zeyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=z3yad30&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=z3yad30&layout=compact&theme=radical&cache_seconds=1800)
 
+---
 
 ### 📬 Contact Me  
 - 📧 [zeyad.mo.refaey@gmail.com](mailto:zeyad.mo.refaey@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/zeyadrefaey)  
 - 🧠 [GitHub](https://github.com/z3yad30)
-
