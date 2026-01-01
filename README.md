@@ -44,9 +44,8 @@ Currently working on:
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `scikit-learn` • `SQL Server` • `Power BI` • `Git`
 
 ---
-
-### 📊 GitHub Stats  
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3yad30&show_icons=true&theme=radical)
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=z3yad30&layout=compact&theme=radical)
 ---
 
 ### 📬 Contact Me  
