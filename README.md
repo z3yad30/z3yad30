@@ -46,8 +46,7 @@ Currently working on:
 ---
 
 ### 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3yad30&layout=compact&theme=radical)
-
+![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3yad30&show_icons=true&theme=radical)
 ---
 
 ### 📬 Contact Me  
