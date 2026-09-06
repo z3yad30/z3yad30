@@ -117,4 +117,4 @@ Building in public:
 
 ---
 
-**Building the future of financial and sports analytics in the Arabic market.**
+**Building the future of the Arabic market.**
