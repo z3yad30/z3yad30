@@ -1,120 +1,219 @@
-# Zeyad Refaey
+# Hi, I'm Zeyad Refaey 👋
 
-**Data Science Engineer | AI Startup Founder | Data Systems Builder**
+### AI/ML Engineer | NLP & LLM Applications | Data Science
 
-Turning Egyptian market insights into intelligent systems. Building fintech and sports analytics platforms powered by data science and machine learning.
+I'm a **Data Science student at Egyptian Chinese University (ECU)**, currently building my path toward **AI/ML Engineering**, with a particular interest in **NLP, Large Language Models, RAG systems, and intelligent applications**.
 
----
-
-## 🚀 What I'm Building
-
-### **[Basira](https://basira.market)** — بصيرة
-*Arabic-first AI financial analytics platform for the Egyptian Exchange*
-
-- **Real-time stock analysis** with multilingual NLP and sentiment analysis
-- **Forecasting engine** leveraging ARIMA/SARIMA, Prophet, LSTM, and Conformal Prediction
-- **Custom visual identity** with Ink & Sand fintech aesthetic (Tajawal + DM Mono typography)
-- **Infrastructure**: Railway deployment + Cloudflare R2 for scalable data persistence
-- **Live** on production serving Egyptian investors
-
-**Key work**: Market research, investor pitching, multi-model forecasting strategy, deployment architecture, UI/UX optimization
+I enjoy taking AI models beyond notebooks — turning them into **usable, deployable systems and APIs**.
 
 ---
 
-### **[Rasid](https://rasid.football)** — راصد  
-*Football analytics SaaS for the Egyptian Premier League*
+## 🚀 What I Work With
 
-- **Match intelligence** powered by StatsBomb event data
-- **Interactive visualizations** (pass maps, heat maps, xG analysis)
-- **Agent-ready tooling** for seamless front-end implementation
-- **Built with**: Vanilla HTML/CSS/JS for maximum performance
+### 🤖 AI & Machine Learning
 
-**Key work**: Match analysis architecture, StatsBomb data integration, frontend visualization pipeline
+* Machine Learning & Deep Learning
+* Natural Language Processing (NLP)
+* Neural Networks
+* Transformers
+* LSTM / GRU
+* Scikit-learn
+* TensorFlow / Keras
+* PyTorch
+* Hugging Face Transformers
+* XGBoost
 
----
+### 🧠 Generative AI
 
-### **The Decision Mirror**
-*ECU Graduation Project — AI-powered decision-advisory system*
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* Semantic Search
+* Embeddings
+* Vector Databases
+* LangChain
+* Sentence Transformers
 
-An intelligent system that synthesizes multiple data sources to guide critical decisions with contextual reasoning and risk-aware recommendations.
+### ⚙️ AI Application Development
 
----
+* FastAPI
+* Flask
+* Streamlit
+* Gradio
+* REST APIs
+* Model Inference & Deployment
+* Python
 
-## 💻 Technical Foundation
+### 📊 Data Science
 
-### Core Skills
-- **Languages**: Python, SQL, C++, JavaScript
-- **Data Science**: pandas, NumPy, scikit-learn, TensorFlow/Keras, Prophet
-- **ML/AI**: Regression, Classification, Clustering, NLP, Time Series Forecasting, LLMs
-- **Databases**: SQL Server, PostgreSQL, data warehousing (Star Schema, ETL, incremental loads)
-- **Visualization**: Power BI, Matplotlib, Seaborn, interactive dashboards
-- **DevOps**: Git, Railway, Cloudflare, API design & deployment
-- **Tools**: Excel, Jupyter Notebooks, API development (REST)
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* SQL
+* Exploratory Data Analysis
+* Feature Engineering
+* Statistical Analysis
+* Customer Segmentation
+* Power BI
 
-### Recent Projects & Experience
-- **ETL & Data Warehouse Design** – Star Schema architecture, incremental loading strategies
-- **Ride-Booking Analytics Dashboard** – Power BI storytelling and business intelligence
-- **Advanced SQL** – Complex joins, stored procedures, query optimization
-- **Machine Learning Models**:
-  - Multivariate regression and classification
-  - Market segmentation clustering
-  - Time series analysis and forecasting
-  - NLP for sentiment and financial text analysis
+### 🛠️ Tools
 
----
-
-## 📚 Education & Certifications
-
-**Egyptian Chinese University (ECU)** – Data Science & AI Engineering  
-*Graduating 2027*
-
-**Professional Training**:
-- 🏆 Google for Developers "Build with AI: Masr Edition" Certification
-- 🏆 100+ NVIDIA Deep Learning Institute Hours
-- 📜 Gen AI for Beginners Internship (ITI & NVIDIA)
-- 📜 Data Analysis Internship (NTI) – EDA, Power BI, dashboarding
-- 📜 Data Science Bootcamp (365 Careers)
-- 📜 Summer ML Camp (Sprints × Microsoft)
-
-**Prior Experience**:
-- **Fawry** – NLP pipeline development, customer segmentation, REST API deployment
-- **NTI** – EDA, data cleaning, Power BI dashboards
+* Git & GitHub
+* ChromaDB
+* OpenRouter API
+* Jupyter
+* VS Code
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Featured Projects
 
-- Scaling Basira's forecasting models and market coverage
-- Building Rasid's analytics moat through StatsBomb integration
-- Graduate research on decision systems and AI advisory
-- Contributing to Egyptian tech ecosystem (LinkedIn, community engagement)
+### 📄 [Contract Summary & Q&A Assistant](https://github.com/z3yad30/Contract-Summary-Q-A-Assistant)
 
----
+An end-to-end **RAG application for legal document analysis**.
 
-## 📊 Work in Progress
+**Highlights:**
 
-Building in public:
-- Advanced time series forecasting (GARCH, Conformal Prediction)
-- Multilingual financial NLP pipelines
-- Interactive sports analytics visualizations
-- Deployment optimization and DevOps automation
+* PDF & DOCX document processing
+* Intelligent document chunking
+* Semantic search
+* Sentence Transformer embeddings
+* ChromaDB vector store
+* LangChain LCEL
+* LLM-powered conversational Q&A
+* Source tracking & inline citations
+* Persistent chat history
+* Document summarization
+* Gradio interface
 
----
-
-## 🔗 Connect
-
-- **Email**: [zeyad.mo.refaey@gmail.com](mailto:zeyad.mo.refaey@gmail.com)
-- **LinkedIn**: [linkedin.com/in/zeyadrefaey](https://www.linkedin.com/in/zeyadrefaey)
-- **GitHub**: [github.com/z3yad30](https://github.com/z3yad30)
+**Focus:** `LLM` `RAG` `NLP` `Embeddings` `Vector Search` `LangChain`
 
 ---
 
-## 📈 GitHub Stats
+### 🎬 [IMDB Sentiment Analysis API](https://github.com/z3yad30/roberta-large-sentiment-imdb)
 
-![Zeyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=z3yad30&show_icons=true&theme=radical&card_width=495&include_all_commits=true)
+A production-oriented **NLP sentiment analysis system** built around a fine-tuned RoBERTa-large model.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=z3yad30&layout=compact&theme=radical)
+**Highlights:**
+
+* Fine-tuned Transformer model
+* 93–95% accuracy on the IMDB test dataset
+* FastAPI REST API
+* Pydantic validation
+* Single & batch prediction
+* Confidence scoring
+* Error handling
+* Health & monitoring endpoints
+* GPU/CPU-agnostic inference
+* Interactive web interface
+
+**Focus:** `NLP` `Transformers` `RoBERTa` `PyTorch` `FastAPI` `Model Deployment`
 
 ---
 
-**Building the future of the Arabic market.**
+### 🕵️ [Fake Job Postings Fraud Detection](https://github.com/z3yad30/fake_job_detection)
+
+An end-to-end **NLP and machine learning system for detecting fraudulent job postings**.
+
+**Highlights:**
+
+* Text normalization
+* TF-IDF & n-gram features
+* Metadata-based feature engineering
+* Fraud pattern mining
+* Association rule mining
+* Scikit-learn & XGBoost models
+* Fraud probability scoring
+* Model interpretability
+* Streamlit application
+* Bulk CSV prediction
+
+**Focus:** `Machine Learning` `NLP` `XGBoost` `Feature Engineering` `Fraud Detection`
+
+---
+
+## 💼 Experience
+
+**Data Science Intern — Fawry**
+*Cairo, Egypt · Dec 2025 – Jan 2026*
+
+* Built NLP sentiment analysis models using LSTM/GRU with TensorFlow
+* Developed customer segmentation using K-Means
+* Worked with transactional datasets
+* Performed data cleaning, feature engineering and exploratory analysis
+* Built predictive and classification models
+* Generated actionable insights from customer data
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Data Science**
+Egyptian Chinese University — Faculty of Computers & Information Technology
+
+**Expected Graduation:** 2027
+
+---
+
+## 📚 Training & Certifications
+
+* NVIDIA DLI — Building RAG Agents with LLMs
+* NVIDIA DLI — Building LLM Applications with Prompt Engineering
+* NVIDIA DLI — Generative AI & Deep Learning Training
+* Deep Learning with PyTorch
+* Introduction to Deep Learning
+* Introduction to Generative AI Concepts
+* Deploy AI Apps with Cloudflare
+* Intro to AI Engineering
+
+---
+
+## 🎯 Currently Learning
+
+I'm currently focusing on moving from **AI prototypes to production-ready AI systems**.
+
+```text
+AI / ML
+   ↓
+NLP & Transformers
+   ↓
+LLMs & RAG
+   ↓
+AI Applications
+   ↓
+APIs & Deployment
+   ↓
+MLOps & Cloud
+```
+
+Currently expanding my knowledge in:
+
+* 🐳 Docker & containerization
+* ☁️ Cloud deployment
+* 📈 MLflow & experiment tracking
+* 🔄 CI/CD for ML applications
+* 🧪 ML & LLM evaluation
+* 🏗️ Production AI system architecture
+
+---
+
+## 🌱 What I'm Interested In
+
+I'm particularly interested in building systems that combine:
+
+**Machine Learning + NLP + LLMs + Data**
+
+with a focus on turning models into **real-world applications that people can actually use**.
+
+---
+
+## 📫 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/)
+* 💻 [GitHub](https://github.com/z3yad30/)
+* 📧 [zeyad.mo.refaey@gmail.com](mailto:zeyad.mo.refaey@gmail.com)
+
+---
+
+⭐ If you find one of my projects useful, feel free to star the repository!
