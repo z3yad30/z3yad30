@@ -29,7 +29,7 @@ class ZeyadRefaey:
 
     def __init__(self):
         self.name = "Zeyad Refaey"
-        self.role = "AI / ML Engineer in the making"
+        self.role = "Data Scientist & AI Engineer"
         self.education = "B.Sc. Data Science @ ECU"
         self.graduation = 2027
 
@@ -39,11 +39,13 @@ class ZeyadRefaey:
             "Natural Language Processing",
             "Large Language Models",
             "RAG Systems",
-            "AI Applications"
+            "AI Applications",
+            "Data science"
         ]
 
         self.currently_learning = [
             "MLOps",
+            "LLMOps",
             "Docker",
             "Cloud Deployment",
             "LLM Evaluation",
